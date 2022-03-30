@@ -1,4 +1,4 @@
-function varargout = bsp_imana(what,varargin)
+function varargout = bsp_imana_ladan(what,varargin)
 
 numDummys = 3;                                                              % per run
 numTRs    = 321;                                                            % per run (includes dummies)
